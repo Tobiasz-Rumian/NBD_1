@@ -1,4 +1,3 @@
-import jdk.jfr.Percentage
 
 import scala.annotation.tailrec
 import scala.math.abs
